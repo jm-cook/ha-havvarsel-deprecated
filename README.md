@@ -1,8 +1,8 @@
 Navigate to: [My smart home](https://github.com/jm-cook/my-smart-home/tree/main)
 
-[![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/jm-cook/ha-havvarsel)
-[![Validate with HACS](https://github.com/jm-cook/ha-havvarsel/actions/workflows/validate.yaml/badge.svg)](https://github.com/jm-cook/ha-havvarsel/actions/workflows/validate.yaml)
-[![GitHub Release](https://img.shields.io/github/release/jm-cook/ha-havvarsel.svg)](https://github.com/jm-cook/ha-havvarsel/releases)
+[![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/jm-cook/ha-havvarsel-deprecated)
+[![Validate with HACS](https://github.com/jm-cook/ha-havvarsel-deprecated/actions/workflows/validate.yaml/badge.svg)](https://github.com/jm-cook/ha-havvarsel-deprecated/actions/workflows/validate.yaml)
+[![GitHub Release](https://img.shields.io/github/release/jm-cook/ha-havvarsel-deprecated.svg)](https://github.com/jm-cook/ha-havvarsel-deprecated/releases)
 ![Project Maintenance](https://img.shields.io/maintenance/yes/2025.svg)
 
 # HA Havvarsel
